@@ -9,9 +9,9 @@ title: Publications
 <br/>
 
 ## Refereed Journal Articles
-<a href="/assets/images/banners/NSF1_water.pdf"><b>[1]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2022). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Accepted (January 2024).</a><br/><br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/10497136"><b>[1]</b>. <b>Liu, Y.</b>, Berman, J., Dodson, A., Park, J., Zahabi, M., Huang, H., Ruiz, J., and Kaber, D. (2024). Human-centered evaluation of EMG-based upper-limb prosthetic control schemes. <i>IEEE Transactions on Human-Machine Systems</i>, DOI: 10.1109/THMS.2024.3381094</a><br/><br/>
 
-<b>[2]</b>. <b>Liu, Y.</b> and Kaber, D. (2022). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision (October 2023).<br/><br/>
+<a href="https://doi.org/10.1016/j.apergo.2024.104287"><b>[2]</b>. <b>Liu, Y.</b>, Kaber, D., Cunningham, C., Chase, T., and Pyo, K. (2024). Analysis of driver behavior at grade-separated intersections to support design. <i>Applied Ergonomics</i>.</a><br/><br/>
 
 <a href="https://doi.org/10.1007/s13198-023-02162-1" target="_blank"><b>[3]</b>. Lau, M., <b>Liu, Y.</b> and Kaber, D. (2023). A consequence severity-probability importance measure for fault tree analysis. <i>International Journal of System Assurance Engineering and Management</i>, DOI: 10.1007/s13198-023-02162-1.</a><br/><br/>
 
@@ -21,9 +21,9 @@ title: Publications
 
 ## Submitted Refereed Journal Articles
 
-<b>[6]</b>. <b>Liu, Y.</b>, Kaber, D., Cunningham, C., Chase, T., and Pyo, K. (in 2nd review). Analysis of driver behavior at grade-separated intersections to support design. Submitted to <i>Applied Ergonomics</i>.<br/><br/>
+<b>[6]</b>. <b>Liu, Y.</b> and Kaber, D. (2022). Models of automation rate in human-in-the-loop systems and operator situation awareness responses. Submitted to <i>IEEE Transactions on Human-Machine Systems</i>. Minor Revision (October 2023).<br/><br/>
 
-<b>[7]</b>. Zhang, W., <b>Liu, Y.</b>  and Kaber, D. (in 2nd review). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>International Journal of Human Computer Studies</i>.<br/><br/>
+<b>[7]</b>. Zhang, W., <b>Liu, Y.</b>  and Kaber, D. (in 2nd review). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>International Journal of Human Computer Studies</i>.Minor Revision (April 2024).<br/><br/>
 
 ## In-Preparation Refereed Journal Articles
 <b>[8]</b>. <b>Liu, Y.</b>, Delgado, D., Park, J., Music, A., Berman, J., Kaber, D., Ruiz, J., Huang, H., and Zahabi, M.. Virtual Reality (VR) in the early phase design of EMG-based upper-limb prosthetics. Submitted to <i>Ergonomics</i>. <br/><br/>
