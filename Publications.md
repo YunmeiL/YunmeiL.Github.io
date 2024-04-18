@@ -55,10 +55,10 @@ title: Publications
 <a href="https://openreview.net/pdf?id=okYdj8Ysru" target="_blank"><b>[C7]</b>. Chen, Z., Song, Y., <b>Liu, Y.</b>, and Sebe, N. (2024). A Lie Group Approach to Riemannian Batch Normalization. <i> ICLR </i>. Accepted.</a><br/><br/>
             - <i> Top Conference in Machine Learning </i> <br/><br/>
 
-<a href="/assets/images/banners/paper_77_water.pdf"> <b>[C8]</b>. <b>Liu, Y.</b>, Grimaldi, N., Basnet, N., Zahabi, M., and Kaber, D. (2024). Classifying cognitive workload using machine learning techniques. <i> IEEE International Conference on Human-Machine Systems</i>. Accepted. </a><br/><br/>
+ <b>[C8]</b>. <b>Liu, Y.</b>, Grimaldi, N., Basnet, N., Zahabi, M., and Kaber, D. (2024). Classifying cognitive workload using machine learning techniques. <i> IEEE International Conference on Human-Machine Systems</i>. Accepted. <br/><br/>
 
 
-<a href="/assets/images/banners/paper_74_water.pdf"><b>[C9]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. Accepted. </a><br/><br/>
+<b>[C9]</b>. Grimaldi, N., <b>Liu, Y.</b>, McKendrick, R., Ruiz, J., and Kaber, D. (2024). Deep learning forecast of cognitive workload using fNIRS data. <i> IEEE International Conference on Human-Machine Systems</i>. Accepted. <br/><br/>
 
 <b>[C10]</b>. Chen, Z., Song, Y., Rui, W., <b>Liu, Y.</b>, Wu, X.J., and Sebe, N. (2024). Intrinsic Riemannian classifiers on SPD manifolds: a unified framework. <i> International Conference on Machine Learning (ICML)</i>. Submitted. <br/><br/>
             - <i> Top Conference in Machine Learning </i> <br/><br/>
