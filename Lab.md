@@ -34,7 +34,7 @@ To achieve this, we are using wearable sensors to gather a wide range of data, i
 Human-Centric AI allows AI systems that not only understand our instructions but also our intentions, emotions, and limitations, paving the way for a future where human-AI collaboration is as natural and intuitive as human-human interaction.<br/><br/>
 </font>
 
-<h3 align="left" style="color: orangered;">We are excited to announce openings for two fully-funded PhD positions within our team. Click <a href="/assets/images/banners/PhD position.pdf">HERE</a> to for more details!</h3>
+<!-- <h3 align="left" style="color: orangered;">We are excited to announce openings for two fully-funded PhD positions within our team. Click <a href="/assets/images/banners/PhD position.pdf">HERE</a> to for more details!</h3> -->
 
  <p style="text-align:justify; text-justify:inter-ideograph;">
 
