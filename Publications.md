@@ -13,7 +13,7 @@ title: Publications
 
 <a href="https://doi.org/10.1016/j.apergo.2024.104287"><b>[2]</b>. <b>Liu, Y.</b>, Kaber, D., Cunningham, C., Chase, T., and Pyo, K. (2024). Analysis of driver behavior at grade-separated intersections to support design. <i>Applied Ergonomics</i>.</a><br/><br/>
 
-<b>[3]</b>. Zhang, W., <b>Liu, Y.</b>  and Kaber, D. (2024). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>International Journal of Human-Computer Studies</i>. Accepted (April 2024).<br/><br/>
+<a href="https://www.sciencedirect.com/science/article/pii/S1071581924000715"><b>[3]</b>. Zhang, W., <b>Liu, Y.</b>  and Kaber, D. (2024). Effect of interface design on cognitive workload in unmanned aerial vehicle control. Second revision submitted to <i>International Journal of Human-Computer Studies</i>. https://doi.org/10.1016/j.ijhcs.2024.103287.</a><br/><br/>
 
 <a href="https://doi.org/10.1007/s13198-023-02162-1" target="_blank"><b>[4]</b>. Lau, M., <b>Liu, Y.</b> and Kaber, D. (2023). A consequence severity-probability importance measure for fault tree analysis. <i>International Journal of System Assurance Engineering and Management</i>, DOI: 10.1007/s13198-023-02162-1.</a><br/><br/>
 
